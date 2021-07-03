@@ -1,5 +1,5 @@
 👋 Hi, I’m Samuel McKean \
-🐝 I'm currently a Master's of CS student at Georgia Tech \
+🎓 I'm currently a Master's of CS student at Georgia Tech \
 🐂 My bachelor's degree is in chemical enginering from UT Austin \
 👨‍🏫 I teach Javascript to middle and high school students for [iD Tech](https://www.idtech.com/) \
 👀 I’m interested in Web and Mobile App Development \
