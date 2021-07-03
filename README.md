@@ -4,7 +4,7 @@
 👨‍🏫 I teach Javascript to middle and high school students for [iD Tech](https://www.idtech.com/) \
 👀 I’m interested in Web and Mobile App Development \
 🌱 I’m currently learning React Native and Ruby on Rails \
-📫 How to reach me samuel.mckean@gmail.com or [LinkedIn](https://www.linkedin.com/in/samuelmckean/)
+📫 You can reach me by email at samuel.mckean@gmail.com or [LinkedIn](https://www.linkedin.com/in/samuelmckean/)
 
 <!---
 samuelmckean/samuelmckean is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
