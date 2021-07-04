@@ -6,6 +6,8 @@
 🌱 I’m currently learning React Native and Ruby on Rails \
 📫 You can reach me by email at samuel.mckean@gmail.com or [LinkedIn](https://www.linkedin.com/in/samuelmckean/)
 
+![Visitor](https://visitor-badge.laobi.icu/badge?page_id=samuelmckean.samuelmckean)
+
 <!---
 samuelmckean/samuelmckean is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
