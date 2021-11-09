@@ -6,8 +6,8 @@
 🌱 I’m currently learning React Native and Ruby on Rails
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samuelmckean&layout=compact)\
-<a href="mailto:samuel.mckean@gmail.com">![YourEmail@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a> 
-<a href="<https://www.linkedin.com/in/samuelmckean/>">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
+<a href="mailto:samuel.mckean@gmail.com">![samuel.mckean@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a> 
+<a href="https://www.linkedin.com/in/samuelmckean/">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=samuelmckean.samuelmckean)
 
 <!---
