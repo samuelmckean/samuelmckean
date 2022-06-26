@@ -1,9 +1,9 @@
 👋 Hi, I’m Samuel McKean \
 🎓 I'm currently a Master's of CS student at Georgia Tech \
 🐂 My bachelor's degree is in chemical enginering from UT Austin \
-👨‍🏫 I teach Javascript to middle and high school students for [iD Tech](https://www.idtech.com/) \
+✈️ Software Developer for [American Airlines](https://www.aa.com/) in the ADEPT 2022 class \
 👀 I’m interested in Web and Mobile App Development \
-🌱 I’m currently learning React Native and Ruby on Rails
+🌱 I’m currently learning Java and Rust 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samuelmckean&layout=compact)\
 <a href="mailto:samuel.mckean@gmail.com">![samuel.mckean@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a> 
